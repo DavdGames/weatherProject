@@ -13,7 +13,7 @@ material = SubResource("StandardMaterial3D_nbg3x")
 size = Vector3(50, 1, 50)
 
 [node name="Level01" type="Node3D"]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0.00132084)
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.18051, 0.00132084)
 
 [node name="floor" type="StaticBody3D" parent="."]
 metadata/_edit_lock_ = true
